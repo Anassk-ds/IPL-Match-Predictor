@@ -1,4 +1,4 @@
-# IPL Match Outcome Predictor 🏏🤖
+# IPL Match Outcome Predictor 🏏
 
 ## 📌 Project Overview
 This repository contains a Machine Learning classification project designed to predict the winning probability of an IPL match based on live game situations. By analyzing variables like current score, target, wickets dropped, and balls remaining, the model calculates real-time win/loss percentages for the batting and bowling teams.
